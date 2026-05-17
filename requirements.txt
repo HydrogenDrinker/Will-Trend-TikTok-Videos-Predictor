@@ -1,0 +1,25 @@
+# Spark & Kafka
+pyspark==3.5.0
+pymongo
+kafka-python
+
+# Deep Learning (Bản CPU cho nhẹ)
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+# Models & Tools
+ultralytics
+mediapipe
+transformers
+joblib
+scikit-learn
+xgboost
+opencv-python-headless
+streamlit
+pandas
+numpy
+watchdog
+feedparser
+pytrends
+yt-dlp
